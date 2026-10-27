@@ -1,0 +1,18 @@
+
+# API anahtarlari
+.env
+.env.*
+
+# Python sanal ortami
+.venv/
+venv/
+
+# Python gecici dosyalari
+__pycache__/
+*.pyc
+
+# Jupyter Notebook gecici dosyalari
+.ipynb_checkpoints/
+
+# VS Code ayarlari
+.vscode/
